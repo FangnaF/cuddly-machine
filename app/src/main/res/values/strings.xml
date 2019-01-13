@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">症状机</string>
+    <string name="ill_name">诊断结果：半部器官衰竭</string>
+    <string name="answer">解决办法：无法治愈</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="连接症状机"
+        android:id="@+id/searchForDeviceItem"/>
+    <item android:title="帮助/关于"
+        android:id="@+id/aboutItem"/>
+</menu>
