@@ -16,8 +16,16 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:textSize="40px"
+            android:textSize="60px"
             android:text="关于/帮助" />
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="40px"
+            android:text="包括终端源码访问https://github.com/FangnaF获取" />
 
         <ImageView
             android:id="@+id/imageView3"
